@@ -32,7 +32,7 @@ use menu to add item instead of normal button.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/OjWhPoP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/OjWhPoP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Project Analysis
 
