@@ -50,9 +50,14 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 ## Notes
 
 Describe any challenges encountered while building the app.
+<<<<<<< HEAD
 
 When I am trying to add more layers of dialogs ,it's easy to make mistakes.
 
+=======
+interaction between activity and dialogs has more challenges. It's easy to make mistakes when we add more layer of dialogs.
+boiler plate code also confuse people to get important point.
+>>>>>>> e36c6331cbd3581c15f1e4fe62ad5c5efe993b25
 
 ## License
 
